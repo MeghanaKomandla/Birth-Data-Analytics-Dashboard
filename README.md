@@ -50,13 +50,14 @@ The dataset includes:
 ```
 Birth-Data-Analytics-Dashboard
 │
-├── Birth Data Analytics Dashboard.pbix
-├── README.md
+├── dashboard
+│   └── Birth Data Analytics Dashboard.pbix
+│
 ├── images
-│     ├── dashboard_overview.png
-│     ├── gender_analysis.png
-│     └── trend_analysis.png
-
+│   ├── dashboard_overview.png
+│   ├── gender_analysis.png
+│
+└── README.md
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
