@@ -48,19 +48,14 @@ The dataset includes:
 ## 📁 Repository Structure
 
 ```
-birth-data-analytics-dashboard
+Birth-Data-Analytics-Dashboard
 │
-├── dashboard
-│   └── birth_data_dashboard.pbix
-│
-├── data
-│   └── birth_data.csv
-│
+├── Birth Data Analytics Dashboard.pbix
+├── README.md
 ├── images
-│   └── dashboard_preview.png
-│
-└── README.md
-```
+│     ├── dashboard_overview.png
+│     ├── gender_analysis.png
+│     └── trend_analysis.png
 
 ## 🚀 How to Use
 
