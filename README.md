@@ -8,30 +8,25 @@ The Birth Data Analytics Dashboard is an interactive Power BI project designed t
 Government authorities need insights into birth registration trends to identify regional gaps, improve planning, and allocate resources effectively.
 
 ## 🎯 Objectives
-
 * Analyze birth registration trends across regions
 * Understand gender distribution patterns
 * Compare performance across districts and mandals
 * Enable detailed data exploration using interactive features
 
 ## 🛠 Tools & Technologies
-
 * Power BI
 * SQL
 * DAX
 * Data Visualization
 
 ## 📂 Dataset
-
 The dataset includes:
-
 * District, Mandal, Panchayat
 * Gender
 * Birth Registration Count
 * Date/Year
 
 ## 📈 Dashboard Features
-
 * Donut, pie, waterfall, and bar charts
 * Gender distribution analysis
 * Regional comparison of birth registrations
@@ -39,7 +34,6 @@ The dataset includes:
 * Drill-through analysis for detailed insights
 
   ## 📊 Sample DAX Measures
-
 ```DAX
 Total Births = SUM(BirthData[Birth Count])
 
@@ -70,14 +64,13 @@ Birth-Data-Analytics-Dashboard
 │   ├── gender_analysis.png
 │
 └── README.md
+
 ## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore dashboards using filters and slicers
-
+- Download the `.pbix` file  
+- Open in Power BI Desktop  
+- Explore dashboards using filters and slicers
+   
 ## 🔮 Future Enhancements
-
 * Integration with live data sources
 * Predictive analytics using machine learning
 * Enhanced visualizations and KPIs
